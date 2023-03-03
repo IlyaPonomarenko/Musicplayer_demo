@@ -24,7 +24,7 @@ function App() {
         file: waterfall,
       },
     ],
-    currentTrackIndex: null,
+    currentTrackIndex: 0,
     isPlaying: false,
   });
   return (
